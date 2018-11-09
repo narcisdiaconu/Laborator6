@@ -1,5 +1,5 @@
 # Laborator6
 
-Diaconu Narcis-Constantin
-Oniga Constantin
-Bonteanu Ioan-Andrei
+Diaconu Narcis-Constantin B4  
+Oniga Constantin B6  
+Bonteanu Ioan-Andrei B4  
