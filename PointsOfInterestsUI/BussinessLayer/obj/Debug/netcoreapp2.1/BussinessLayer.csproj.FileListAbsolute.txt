@@ -1,0 +1,12 @@
+C:\Users\narci\source\repos\PointsOfInterestsUI\BussinessLayer\bin\Debug\netcoreapp2.1\BussinessLayer.deps.json
+C:\Users\narci\source\repos\PointsOfInterestsUI\BussinessLayer\bin\Debug\netcoreapp2.1\BussinessLayer.dll
+C:\Users\narci\source\repos\PointsOfInterestsUI\BussinessLayer\bin\Debug\netcoreapp2.1\BussinessLayer.pdb
+C:\Users\narci\source\repos\PointsOfInterestsUI\BussinessLayer\bin\Debug\netcoreapp2.1\DataLayer.dll
+C:\Users\narci\source\repos\PointsOfInterestsUI\BussinessLayer\bin\Debug\netcoreapp2.1\DataLayer.pdb
+C:\Users\narci\source\repos\PointsOfInterestsUI\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.csprojAssemblyReference.cache
+C:\Users\narci\source\repos\PointsOfInterestsUI\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\narci\source\repos\PointsOfInterestsUI\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.AssemblyInfoInputs.cache
+C:\Users\narci\source\repos\PointsOfInterestsUI\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.AssemblyInfo.cs
+C:\Users\narci\source\repos\PointsOfInterestsUI\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.csproj.CopyComplete
+C:\Users\narci\source\repos\PointsOfInterestsUI\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.dll
+C:\Users\narci\source\repos\PointsOfInterestsUI\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.pdb

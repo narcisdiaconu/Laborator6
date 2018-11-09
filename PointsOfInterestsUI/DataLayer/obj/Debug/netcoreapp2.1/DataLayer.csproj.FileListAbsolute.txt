@@ -1,0 +1,9 @@
+C:\Users\narci\source\repos\PointsOfInterestsUI\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.deps.json
+C:\Users\narci\source\repos\PointsOfInterestsUI\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.dll
+C:\Users\narci\source\repos\PointsOfInterestsUI\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\narci\source\repos\PointsOfInterestsUI\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.AssemblyInfoInputs.cache
+C:\Users\narci\source\repos\PointsOfInterestsUI\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.AssemblyInfo.cs
+C:\Users\narci\source\repos\PointsOfInterestsUI\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.csprojAssemblyReference.cache
+C:\Users\narci\source\repos\PointsOfInterestsUI\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.pdb
+C:\Users\narci\source\repos\PointsOfInterestsUI\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.dll
+C:\Users\narci\source\repos\PointsOfInterestsUI\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.pdb
